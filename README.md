@@ -336,9 +336,9 @@ SOFTWARE.
 
 **Jhishan Deb**
 - GitHub: [@JhishanDeb](https://github.com/JhishanDeb)
-- LinkedIn: [Connect with me](https://linkedin.com/in/jhishandeb)
+- LinkedIn: [Jhishan Deb](https://linkedin.com/in/jhishandeb)
 - Email: jhishandeb2002@gmail.com
-- Portfolio: [View My Work](https://jhishandeb.github.io)
+
 
 ---
 
